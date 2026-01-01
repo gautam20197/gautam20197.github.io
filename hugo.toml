@@ -1,0 +1,8 @@
+baseURL = "https://gautam20197.github.io/"
+languageCode = "en-us"
+title = "Whispering Hollows"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
